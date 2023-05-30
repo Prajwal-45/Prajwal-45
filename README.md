@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Prajwal-45
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on
+- 👀 MERN Developer
+- 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me gadeprajwal45@gmail.com
 
 <!---
