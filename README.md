@@ -1,14 +1,15 @@
-👋 Hi, I'm Prajwal
-
-👀 MERN Developer
-
-I’m a passionate MERN Stack Developer, constantly learning and growing my skills in the MERN (MongoDB, Express.js, React, Node.js) stack.
+👋 Hi, I'm Prajwal-45
+👀 MERN Developer | 🌱 Lifelong Learner | 💻 Tech Enthusiast
+I'm a passionate MERN Stack Developer, continuously exploring new technologies and improving my skills. My journey in web development is driven by a love for building efficient and scalable web applications.
 
 🌱 Currently Learning
-I'm currently diving deep into the MERN stack to build full-stack web applications. My focus is on mastering the latest technologies and best practices to deliver high-quality software solutions.
+MERN Stack: Mastering MongoDB, Express.js, React, and Node.js.
+Best Practices: Writing clean, maintainable, and efficient code.
+New Technologies: Staying updated with the latest trends in web development.
 
 📫 How to Reach Me
-Feel free to reach out to me at gadeprajwal45@gmail.com for any queries, collaborations, or just to say hi!
+Email: gadeprajwal45@gmail.com
+LinkedIn: https://www.linkedin.com/in/prajwal-gade-9a0285224/
 
 🚀 Technologies & Tools
 Frontend: React, JavaScript, HTML, CSS
