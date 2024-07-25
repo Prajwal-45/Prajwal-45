@@ -1,5 +1,7 @@
 👋 Hi, I'm Prajwal
+
 👀 MERN Developer
+
 I’m a passionate MERN Stack Developer, constantly learning and growing my skills in the MERN (MongoDB, Express.js, React, Node.js) stack.
 
 🌱 Currently Learning
