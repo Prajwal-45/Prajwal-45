@@ -25,6 +25,7 @@ Frontend: React, JavaScript, HTML, CSS
 Backend: Node.js, Express.js
 
 Database: MongoDB
+
 Version Control: Git, GitHub
 
 
