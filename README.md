@@ -1,6 +1,6 @@
 👋 Hi, I'm Prajwal-45
 
-👀 MERN Developer | 🌱 Lifelong Learner | 💻 Tech Enthusiast
+👀 MEARN Developer | 🌱 Lifelong Learner | 💻 Tech Enthusiast
 
 I'm a passionate MERN Stack Developer, continuously exploring new technologies and improving my skills. My journey in web development is driven by a love for building efficient and scalable web applications.
 
