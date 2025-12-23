@@ -4,9 +4,9 @@
 
 I'm a passionate MERN Stack Developer, continuously exploring new technologies and improving my skills. My journey in web development is driven by a love for building efficient and scalable web applications.
 
-🌱 Currently Learning
+🌱 Experienced Person
 
-MERN Stack: Mastering MongoDB, Express.js, React, and Node.js.
+MEARN Stack: Mastering MongoDB, Express.js, React, and Node.js.
 
 Best Practices: Writing clean, maintainable, and efficient code.
 
